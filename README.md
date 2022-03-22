@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m a full-stack software developer!
+- 🌱 I’m currently learning Java Spring FrameWork. 
+- 🤔 I’m looking for help with a full time position opportunity as a software developer. 
+- 📫 How to reach me: isabellaliu77@gmail.com
